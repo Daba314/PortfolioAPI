@@ -1,0 +1,19 @@
+[  {
+    "id": "1581377760891",
+    "title": "My first job as a developer",
+    "content": "In Russian university, while I was studying electrical engineering I got a chance to work in a different field. \n I found a job position as a junior computer programmer where I was building the first API programmes in Java and working with database MySQL. ",
+    "post_image": "uploads/post-image-1581377760883.jpg",
+    "added_date": "1581377760891"
+}, {
+    "id": "1581376324100",
+    "title": "Canadian College",
+    "content": "Later, I moved to Canada, where I started studying Computer programming at Georgian college.\nHere my passion for Java is grown, and also I found a place in my heart for Javascript.",
+    "post_image": "uploads/post-image-1581376324096.png",
+    "added_date": "1581376324100"
+}, {
+    "id": "1581375207401",
+    "title": "My current situation",
+    "content": "A few months ago, I graduated from college and currently looking for a job.\n Wish me luck!\n I hope that I will find a job soon in the field which I love.",
+    "post_image": "uploads/post-image-1581375207393.jpg",
+    "added_date": "1581375207401"
+}]
